@@ -1,5 +1,5 @@
 # deeplearning
-## ブログ：「作って理解するディープラーニング」のソースコード
+## ブログ：「作って理解するディープラーニング(全１０回)」のソースコード
 
 #0：[そろそろAI自作してみない？(導入)](https://ebi-works.com/deeplearning-0/)  
 #1：[python環境を作ろう](https://ebi-works.com/deeplearning-1/)  
